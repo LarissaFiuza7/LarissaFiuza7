@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Larissa Santos Fiuza
 
-<!--
-**LarissaFiuza7/LarissaFiuza7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante da área de Tecnologia**
+💻 Interesse em **desenvolvimento de software, lógica de programação e resolução de problemas**
+🚀 Em busca de **oportunidade de estágio** para aprender na prática e evoluir profissionalmente
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Sobre mim
+
+Sou estudante de tecnologia com grande interesse em programação e desenvolvimento de sistemas. Gosto de entender como as coisas funcionam, transformar ideias em soluções e aprender continuamente além do conteúdo da faculdade.
+
+Tenho perfil curioso, colaborativo e estou sempre buscando evoluir minhas habilidades técnicas e profissionais.
+
+---
+
+## 🛠️ Tecnologias e Conhecimentos
+
+* Lógica de Programação
+* Algoritmos e Estruturas de Dados (base)
+* Desenvolvimento de Sistemas
+* Banco de Dados (conceitos)
+* Programação Orientada a Objetos (conceitos)
+
+*(Tecnologias específicas em constante aprendizado)*
+
+---
+
+## 📂 O que você vai encontrar aqui
+
+* Projetos acadêmicos
+* Exercícios práticos de programação
+* Estudos pessoais e testes de conceitos
+* Projetos em evolução 🚧
+
+Este GitHub reflete meu processo de aprendizado e crescimento na área de tecnologia.
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como **estagiária em desenvolvimento**, contribuindo com a equipe, aprendendo novas tecnologias e adquirindo experiência prática em ambientes reais de trabalho.
+
+---
+
+## 📫 Contato
+
+* LinkedIn: *(adicione aqui se quiser)*
+* Email: *(adicione aqui se quiser)*
+
+---
+
+✨ *Sempre aberta a aprender, evoluir e encarar novos desafios!*
