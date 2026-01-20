@@ -22,7 +22,7 @@ Tenho perfil curioso, colaborativo e estou sempre buscando evoluir minhas habili
 * Banco de Dados (conceitos)
 * Programação Orientada a Objetos (conceitos)
 
-*(Tecnologias específicas em constante aprendizado)*
+
 
 ---
 
@@ -45,8 +45,8 @@ Atuar como **estagiária em desenvolvimento**, contribuindo com a equipe, aprend
 
 ## 📫 Contato
 
-* LinkedIn: *(adicione aqui se quiser)*
-* Email: *(adicione aqui se quiser)*
+* LinkedIn: linkedin.com/in/larissa-santos-fiuza-a3928224a
+* Email: larisa.santos.,fiuza14@gmail.com
 
 ---
 
