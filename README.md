@@ -46,7 +46,7 @@ Atuar como **estagiária em desenvolvimento**, contribuindo com a equipe, aprend
 ## 📫 Contato
 
 * LinkedIn: linkedin.com/in/larissa-santos-fiuza-a3928224a
-* Email: larisa.santos.,fiuza14@gmail.com
+* Email: larisa.santos.fiuza14@gmail.com
 
 ---
 
